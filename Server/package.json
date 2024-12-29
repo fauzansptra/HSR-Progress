@@ -10,5 +10,11 @@
     "HSR"
   ],
   "author": "Fauzan Saputra",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "morgan": "^1.10.0",
+    "sequelize": "^6.37.5",
+    "sequelize-cli": "^6.6.2"
+  }
 }
